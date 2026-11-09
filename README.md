@@ -2,7 +2,7 @@
 ### AI-Powered Cybersecurity Assessment Platform
 
 <p align="center">
-  <img src="./assets/vulnshield-banner.png" width="100%" alt="VULNSHIELD Cybersecurity Platform Banner"/>
+  <img src="./vulnshield-banner.png" width="100%" alt="VULNSHIELD Cybersecurity Platform Banner"/>
 </p>
 
 <p align="center">
