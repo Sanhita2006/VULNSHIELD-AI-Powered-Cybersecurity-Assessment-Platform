@@ -350,49 +350,7 @@ Congratulations! 🎉 VULNSHIELD should now be running locally.
 
 ---
 
-## 🖥️ Screenshots
 
-Explore the VULNSHIELD interface through the following previews.
-
-### 📊 Main Dashboard
-
-<p align="center">
-  <img src="./assets/dashboard.png" width="100%" alt="VULNSHIELD Main Dashboard"/>
-</p>
-
-### 🌐 Website Security Audit
-
-<p align="center">
-  <img src="./assets/website-audit.png" width="100%" alt="Website Security Audit"/>
-</p>
-
-### 💻 Device Security Audit
-
-<p align="center">
-  <img src="./assets/device-audit.png" width="100%" alt="Device Security Audit"/>
-</p>
-
-### 🛰️ Threat Intelligence
-
-<p align="center">
-  <img src="./assets/threat-intel.png" width="100%" alt="Threat Intelligence Dashboard"/>
-</p>
-
-### 🔬 Digital Forensics
-
-<p align="center">
-  <img src="./assets/forensics.png" width="100%" alt="Digital Forensics Module"/>
-</p>
-
-### 📈 Security Analytics
-
-<p align="center">
-  <img src="./assets/analytics.png" width="100%" alt="Security Analytics Dashboard"/>
-</p>
-
-> **Note:** Add your actual application screenshots using the filenames above. Until then, these image sections will show placeholders or broken images on GitHub.
-
----
 
 ## 🔮 Future Enhancements
 
